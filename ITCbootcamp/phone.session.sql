@@ -1,0 +1,12 @@
+-- CREATE TABLE phons(
+-- id SERIAL PRIMARY KEY,
+-- name VARCHAR,
+-- price INT
+-- );
+-- INSERT INTO phons(name,price) VALUES('Iphone',100);
+-- ALTER TABLE phons ADD COLUMN country VARCHAR;
+-- INSERT INTO phons(name,price,country) VALUES('Samsung',120,'korea');
+-- INSERT INTO phons(name,price,country) VALUES('Nokia',1000,'kyrgyzstan');
+-- INSERT INTO phons(name,price,country) VALUES('Mi',1,'yzbekistan');
+-- INSERT INTO phons(name,price,country) VALUES('Gogle',0,'usa');
+-- SELECT * FROM phons;
